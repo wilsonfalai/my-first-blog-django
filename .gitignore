@@ -1,0 +1,14 @@
+*.pyc
+__pycache__
+
+#Virtual Env
+myvenv
+
+#Banco de dados
+db.sqlite3
+
+# Mac DS_Store Files
+.DS_Store
+
+# pycham project files
+.idea/
